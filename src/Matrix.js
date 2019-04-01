@@ -18,6 +18,8 @@ export default class Matrix extends Component {
        selectedColor: newColor
      })
   }
+  
+  getSelectedColor = () => 
 
 
   genRow = (vals) => (
