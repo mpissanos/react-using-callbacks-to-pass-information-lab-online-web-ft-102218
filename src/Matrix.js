@@ -7,6 +7,8 @@ export default class Matrix extends Component {
 
   constructor() {
     super()
+    
+    
   }
 
   genRow = (vals) => (
